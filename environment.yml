@@ -1,0 +1,13 @@
+name: DeepLearn
+channels:
+  - defaults
+dependencies:
+  - python=3.13
+  - numpy
+  - pandas
+  - matplotlib
+  - tiktoken
+  - tqdm
+  - pytorch
+  - psutil
+  - ipykernel

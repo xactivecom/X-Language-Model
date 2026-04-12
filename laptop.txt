@@ -1,0 +1,28 @@
+PyTorch 2.7+
+CUDA 12.8 Toolkit supports
+NVIDIA RTX PRO 500 Blackwell GPU
+launched March 2025
+
+ThinkPad P14s Gen 5 (own it)
+Intel Core Ultra 7 155H
+32GB RAM
+1 TB SSD
+NVIDIA RTX 500 Ada GPU 4GB GDDR6
+$2K
+
+ThinkPad P16s Gen 4
+Intel Core Ultra 7 255H
+64GB RAM
+2 TB SSD
+NVIDIA RTX PRO 500 Blackwell GPU 6GB GDDR7
+$4.5K
+
+ThinkPad P16s Gen 4
+Intel Core Ultra 7 255H
+32GB RAM
+1 TB SSD
+NVIDIA RTX PRO 500 Blackwell GPU 6GB GDDR7
+$3.6K
+
+
+Build a Large Language Model, p. 33
