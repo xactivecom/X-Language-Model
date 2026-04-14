@@ -9,6 +9,11 @@ Its implementation relies on the PyTorch deep learning library.
 
 The purpose of a LLM is to understand, generate and respond to human-like text.
 
+## Acknowledge
+
+The experiments were based on content from Sebastien Raschka's book 
+"Build a Large Language Model from Scratch", Manning Press.
+
 ## Process
 
 1 - Pretraining: The LLM is initially trained by scanning a large amout of text to form the base model.
